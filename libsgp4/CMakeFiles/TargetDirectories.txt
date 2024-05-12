@@ -1,0 +1,2 @@
+/home/kolibersky/Projects/sgp4-master/libsgp4/CMakeFiles/sgp4.dir
+/home/kolibersky/Projects/sgp4-master/libsgp4/CMakeFiles/sgp4s.dir
